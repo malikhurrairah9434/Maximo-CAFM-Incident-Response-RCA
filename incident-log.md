@@ -1,6 +1,5 @@
 # Incident Log — Simulated Maximo CAFM Production Support Tickets
 
-Each entry follows the format an L2/L3 support engineer would use to document a ticket:
 Symptom → Diagnostic Steps → SQL/Evidence → Root Cause → Fix → Preventive Measure.
 
 ---
