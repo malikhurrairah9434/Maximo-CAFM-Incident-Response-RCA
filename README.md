@@ -1,4 +1,4 @@
-# CAFM / IBM Maximo Application Support Portfolio
+# CAFM / IBM Maximo Application Support
 
 **Purpose:** This is a work-sample portfolio built to demonstrate L2/L3 production support
 skills for IBM Maximo-based CAFM/EAM environments — the kind of work covered by roles like
